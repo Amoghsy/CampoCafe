@@ -98,4 +98,4 @@ https://www.tinkercad.com/things/9ObYwYWrGea-campocafe-smart-canteen-system?shar
 
 ## Author
 © Amogh S Y 2026
-Developed as an embedded systems project using Arduino and Tinkercad simulation.
+- Developed as an embedded systems project using Arduino and Tinkercad simulation.
