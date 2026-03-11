@@ -67,7 +67,7 @@ B → Cancel Order
 ---
 
 ## Tinkercad Simulation
-(circuit.png)
+![Circuit](circuit.png)
 
 You can view and run the circuit simulation here:
 
